@@ -1,0 +1,7 @@
+Sample file for GitHub project
+
+1.Created an application
+
+2. Entered code
+
+3. Tested the code
